@@ -23,4 +23,4 @@ private:
 
 bool test(float test_force = 15, float test_power = 10, bool test_condition = true);
 
-#endif // !CLASSES
+#endif // !CLASSES 

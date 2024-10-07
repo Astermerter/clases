@@ -21,7 +21,7 @@ Lamp::Lamp(const Lamp& another) {
     if (another.power >= 0)
         power = another.power;
     condition = another.condition;
-}
+} 
 
 void Lamp::setForce(float input_force) {
     if (input_force >= 0)
